@@ -1,0 +1,4 @@
+Nie wiem o co chodzi z tymi widgetami. Zrobiłem research, próbowałem to ogarnąć ale nic nie działa.
+Porobiłem screenshoty na dowód że kod robi to co powinien. Szukałem po tutorialach,
+usuwałem z notatnika to co wydawało mi się że może powodować problem, ale nie pomagało,
+jedyne co umożliwiło mi konwersję do html to coś co usunęło całkowicie outputy :(
